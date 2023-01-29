@@ -1,0 +1,13 @@
+{ "productos" : [
+
+    { "id": 1, "nombre": "Primero Argentina", "precio": 300, "cantidad": 1, "imagen": "Selección.webp", "descripcion": "" },
+    { "id": 2, "nombre": "Segundo Francia", "precio": 200, "cantidad": 1, "imagen": "Francia.jpg", "descripcion": "" },
+    { "id": 3, "nombre": "Copa", "precio": 150, "cantidad": 1, "imagen": "Copa.jpg", "descripcion": "" },
+    { "id": 4, "nombre": "Hamburguesa", "precio": 150, "cantidad": 1, "imagen": "Hamburguesa.webp", "descripcion": "" },
+    { "id": 5, "nombre": "Tarta jamon ", "precio": 250, "cantidad": 1, "imagen": "tartas.jpg", "descripcion": "" },
+    { "id": 6, "nombre": "Brownie  ", "precio": 170, "cantidad": 1, "imagen": "brownie.webp", "descripcion": "" },
+    { "id": 7, "nombre": "Postre Mouse", "precio": 350, "cantidad": 1, "imagen": "postres.jpg", "descripcion": "" },
+    { "id": 8, "nombre": "Helado", "precio": 250, "cantidad": 1, "imagen": "helado.jpg", "descripcion": "" },
+    { "id": 9, "nombre": "Licuado", "precio": 230, "cantidad": 1, "imagen": "licuado.webp", "descripcion": "" }
+]
+}
